@@ -1,6 +1,6 @@
 name: compact_number
 description: Convert large number to short readable format such as 10K, 5M, 10B etc.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/mddanish-dev/compact_number
 
 environment:
